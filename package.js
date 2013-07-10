@@ -3,7 +3,7 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.use('meteor-d3', 'client')
+  api.use('d3', 'client')
   api.add_files('rickshaw/rickshaw.js', 'client');
   api.add_files('rickshaw/rickshaw.css', 'client');
 });

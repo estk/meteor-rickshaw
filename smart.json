@@ -1,11 +1,14 @@
 {
-  "name": "Rickshaw",
+  "name": "rickshaw",
   "description": "The Rickshaw graphing library packaged for meteor.",
   "homepage": "https://github.com/estk/meteor-rickshaw",
   "author": "Evan Simmons <esims89@gmail.com>",
   "version": "1.3.1",
   "git": "https://github.com/estk/meteor-rickshaw",
   "packages": {
-      "d3": "2.10.3"
+      "d3": {
+        "version": "2.10.3",
+        "git": "https://github.com/estk/meteor-d3"
+      }
     }
 }

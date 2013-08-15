@@ -3,7 +3,7 @@
   "description": "The Rickshaw graphing library packaged for meteor.",
   "homepage": "https://github.com/estk/meteor-rickshaw",
   "author": "Evan Simmons <esims89@gmail.com>",
-  "version": "1.4.3.4",
+  "version": "1.4.3.5",
   "git": "https://github.com/estk/meteor-rickshaw",
   "packages": {
       "d3": {

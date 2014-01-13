@@ -7,8 +7,7 @@
   "git": "https://github.com/estk/meteor-rickshaw",
   "packages": {
       "d3": {
-        "version": "2.10.3",
-        "git": "https://github.com/estk/meteor-d3"
+        "git": "https://github.com/percolatestudio/meteor-d3"
       }
     }
 }
